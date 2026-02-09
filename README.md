@@ -26,6 +26,7 @@ Here I:
 
 ```bash
 .
+├── Linear Algebra
 ├── Machine Learning
 ├── Matplotlib
 ├── Numpy
