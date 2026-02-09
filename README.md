@@ -34,5 +34,6 @@ Here I:
 ├── Seaborn
 ├── Statistics
 ├── Visualization
+├── .gitignore
 └── README.md
 ```
