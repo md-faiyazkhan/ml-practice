@@ -26,7 +26,8 @@ Here I:
 
 ```bash
 .
-├── Machine Learning
+├── Linear_Algebra
+├── Machine_Learning
 ├── Matplotlib
 ├── Numpy
 ├── Pandas
@@ -34,5 +35,6 @@ Here I:
 ├── Seaborn
 ├── Statistics
 ├── Visualization
+├── .gitignore
 └── README.md
 ```
