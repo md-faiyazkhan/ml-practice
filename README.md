@@ -26,6 +26,7 @@ Here I:
 
 ```bash
 .
+├── EDA
 ├── Linear_Algebra
 ├── Machine_Learning
 ├── Matplotlib
