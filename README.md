@@ -10,7 +10,7 @@ Welcome to my **practice repository**, where I regularly upload my learning and 
 
 ---
 
-## 📚 Purpose of this Repository
+## 📚 Purpose of this Repository 
 
 > **Main aim:** Practice daily and track my growth as a future Machine Learning Engineer.
 
